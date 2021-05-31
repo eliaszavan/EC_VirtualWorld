@@ -1,0 +1,4 @@
+name: VirtualWorldsAPI
+version: 1.0.1-SNAPSHOT
+main: net.elicodes.vw.Main
+author: EliCodes
