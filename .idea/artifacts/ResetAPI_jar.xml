@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ResetAPI:jar">
-    <output-path>$PROJECT_DIR$/../../Seu_chatu/Desenvolvidos/SERVIDORES/PaperSpigot/plugins</output-path>
-    <root id="archive" name="ResetAPI.jar">
-      <element id="module-output" name="EC_Reset" />
-    </root>
-  </artifact>
-</component>
